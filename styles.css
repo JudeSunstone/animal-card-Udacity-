@@ -1,0 +1,54 @@
+.card-type {
+    max-width: 315px;
+    margin: auto;
+    padding: 6px;
+    border: 2px solid rgb(39, 38, 38);
+    background: rgb(143, 141, 141);
+    box-shadow:  6px 6px 10px #bbbaba;
+    border-radius: 7px;
+    color: rgb(102, 96, 97);
+    color: #000000;
+}
+.image {
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border: 2px solid  rgb(39, 38, 38);
+    margin: 3px;
+    border-radius: 7px;
+}
+.info {
+    font-family: "Courier New", Courier, monospace;
+    margin: auto;
+    padding: 12px;
+    margin: 5px;
+    margin-top: 10px;
+    border: 3px solid rgb(34, 34, 34);
+    background: rgb(219, 219, 219);
+    border-radius: 7px;
+}
+    .title {
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    margin: 12px;
+    color: rgb(22, 22, 22);
+    text-transform: uppercase;    
+}
+.item {
+    font-weight: bold;
+}
+.info-quote {
+    font-style: italic;
+}
+.info-facts {
+        list-style-type: none;
+        padding: 0;
+    }
+}
+//*.image-content {
+    flex-shrink: 0;
+    max-width: 300px;
+    height: auto;
+}
+
